@@ -40,7 +40,7 @@
   },
   "dependencies": {
     "@medv/blessed": "^2.0.1",
-    "chalk": "^4.1.0",
+    "chalk": "^5.0.1",
     "indent-string": "^4.0.0",
     "lossless-json": "^1.0.4",
     "string-width": "^4.2.0"
